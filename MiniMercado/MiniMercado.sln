@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMercado", "MiniMercado\MiniMercado.csproj", "{BDD708CE-D302-4AF7-96DB-B90BC41EFDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD708CE-D302-4AF7-96DB-B90BC41EFDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD708CE-D302-4AF7-96DB-B90BC41EFDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD708CE-D302-4AF7-96DB-B90BC41EFDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD708CE-D302-4AF7-96DB-B90BC41EFDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB395E9E-689E-4AE5-A59C-6214947BBD63}
+	EndGlobalSection
+EndGlobal
